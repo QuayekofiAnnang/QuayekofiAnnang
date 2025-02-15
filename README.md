@@ -1,7 +1,7 @@
 # Hi there, I'm Nii Kofi Annang Quaye! 👋
 
 ### 🌟 About Me
-- 🎓 BSc Computer Science Student at Accra Technical University
+- 🎓 HND Computer Science Student at Accra Technical University
 - 💻 Aspiring Full-Stack Game Developer (Roblox Studio, Unity)
 - ♻️ Building SegreGo – A Scalable Waste Management App
 - 🎮 Passionate about Esports, Game Development, and PC Tech
